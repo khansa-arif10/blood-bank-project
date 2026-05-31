@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["blood-bank (3)/src"],
+    "java.project.outputPath": "blood-bank (3)/bin",
+    "java.project.referencedLibraries": [
+        "blood-bank (3)/libs/**/*.jar"
+    ]
+}

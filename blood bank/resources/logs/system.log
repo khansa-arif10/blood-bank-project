@@ -1,0 +1,60 @@
+[2025-12-07 01:11:55] [staff1] LOGIN
+[2025-12-07 01:12:35] [donor1] LOGIN
+[2025-12-08 16:01:18] [admin1] LOGIN
+[2025-12-10 14:01:06] [INFO] User logged in: admin1
+[2025-12-10 14:02:51] [INFO] User logged in: admin1
+[2025-12-10 14:03:43] [INFO] User added: nomi
+[2025-12-10 14:03:43] [INFO] Admin created new user: nomi
+[2025-12-10 14:03:57] [INFO] User logged in: nomi
+[2025-12-10 19:56:32] [INFO] User logged in: admin1
+[2025-12-10 19:57:37] [WARNING] Failed login attempt for: admin1
+[2025-12-10 19:57:43] [INFO] User logged in: admin1
+[2025-12-10 19:59:20] [WARNING] Failed login attempt for: admin2
+[2025-12-10 19:59:52] [INFO] User logged in: tech2
+[2025-12-10 20:00:35] [INFO] Donor added: Shehzeen
+[2025-12-10 20:00:52] [INFO] Donation recorded for DonorID: 1
+[2025-12-10 20:02:02] [INFO] User logged in: staff2
+[2025-12-10 20:02:54] [INFO] Hospital added: PIMS
+[2025-12-10 20:02:54] [INFO] Hospital registered: PIMS
+[2025-12-10 20:04:25] [INFO] Patient added: Ali
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: A+ - 0 units
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for A+
+[2025-12-10 20:28:47] [INFO] Alert sent to Liam Carter (0300-1001001) for A+
+[2025-12-10 20:28:47] [INFO] Sent 1 alerts for A+
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: A- - 0 units
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for A-
+[2025-12-10 20:28:47] [INFO] Alert sent to Shehzeen (0333-3444343) for A-
+[2025-12-10 20:28:47] [INFO] Sent 1 alerts for A-
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: B+ - 0 units
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for B+
+[2025-12-10 20:28:47] [INFO] Alert sent to Oliver Smith (0300-1001003) for B+
+[2025-12-10 20:28:47] [INFO] Sent 1 alerts for B+
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: B- - 0 units
+[2025-12-10 20:28:47] [INFO] Found 0 eligible donors for B-
+[2025-12-10 20:28:47] [WARNING] No eligible donors found for B-
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: AB+ - 0 units
+[2025-12-10 20:28:47] [INFO] Found 0 eligible donors for AB+
+[2025-12-10 20:28:47] [WARNING] No eligible donors found for AB+
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: AB- - 0 units
+[2025-12-10 20:28:47] [INFO] Found 0 eligible donors for AB-
+[2025-12-10 20:28:47] [WARNING] No eligible donors found for AB-
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: O+ - 0 units
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for O+
+[2025-12-10 20:28:47] [INFO] Alert sent to Noah Brown (0300-1001002) for O+
+[2025-12-10 20:28:47] [INFO] Sent 1 alerts for O+
+[2025-12-10 20:28:47] [WARNING] CRITICAL inventory alert: O- - 0 units
+[2025-12-10 20:28:47] [INFO] Found 0 eligible donors for O-
+[2025-12-10 20:28:47] [WARNING] No eligible donors found for O-
+[2025-12-10 20:28:47] [INFO] Alert: Donor=Liam Carter, Phone=0300-1001001, BloodGroup=A+, Time=Wed Dec 10 20:28:47 PKT 2025
+[2025-12-10 20:28:47] [INFO] Alert: Donor=Shehzeen, Phone=0333-3444343, BloodGroup=A-, Time=Wed Dec 10 20:28:47 PKT 2025
+[2025-12-10 20:28:47] [INFO] Alert: Donor=Oliver Smith, Phone=0300-1001003, BloodGroup=B+, Time=Wed Dec 10 20:28:47 PKT 2025
+[2025-12-10 20:28:47] [INFO] Alert: Donor=Noah Brown, Phone=0300-1001002, BloodGroup=O+, Time=Wed Dec 10 20:28:47 PKT 2025
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for A+
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for A-
+[2025-12-10 20:28:47] [INFO] Found 1 eligible donors for B+
+[2025-12-10 20:28:47] [INFO] Found 0 eligible donors for B-
+[2025-12-10 20:28:48] [INFO] Found 0 eligible donors for AB+
+[2025-12-10 20:28:48] [INFO] Found 0 eligible donors for AB-
+[2025-12-10 20:28:48] [INFO] Found 1 eligible donors for O+
+[2025-12-10 20:28:48] [INFO] Found 0 eligible donors for O-
+[2025-12-10 21:40:26] [INFO] User logged in: tech1

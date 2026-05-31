@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestUrgentAlerts",
+            "request": "launch",
+            "mainClass": "TestUrgentAlerts",
+            "projectName": "GUI Added final_fee1c114"
+        },
+        {
+            "type": "java",
+            "name": "BloodBankGUI",
+            "request": "launch",
+            "mainClass": "BloodBankGUI",
+            "projectName": "GUI Added final_fee1c114"
+        },
+        {
+            "type": "java",
+            "name": "Run CodeMain (Console)",
+            "request": "launch",
+            "mainClass": "CodeMain",
+            "projectName": "GUI Added final",
+            "classPaths": [
+                "${workspaceFolder}/blood-bank (3)/bin",
+                "${workspaceFolder}/blood-bank (3)/libs/mysql-connector-j-9.5.0.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Run BloodBankGUI",
+            "request": "launch",
+            "mainClass": "BloodBankGUI",
+            "projectName": "GUI Added final",
+            "classPaths": [
+                "${workspaceFolder}/blood-bank (3)/bin",
+                "${workspaceFolder}/blood-bank (3)/libs/mysql-connector-j-9.5.0.jar"
+            ]
+        }
+    ]
+}

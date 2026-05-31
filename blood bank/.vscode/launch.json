@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run: CodeMain",
+            "request": "launch",
+            "mainClass": "CodeMain",
+            "classpath": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/libs/mysql-connector-j-9.5.0.jar",
+                "${workspaceFolder}/libs/itextpdf-5.5.13.3.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Run: BloodBankGUI",
+            "request": "launch",
+            "mainClass": "BloodBankGUI",
+            "classpath": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/libs/mysql-connector-j-9.5.0.jar",
+                "${workspaceFolder}/libs/itextpdf-5.5.13.3.jar"
+            ]
+        }
+    ]
+}
